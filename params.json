@@ -1,6 +1,6 @@
 {
   "name": "Coding Projects",
   "tagline": "Portfolio page for weekend projects.",
-  "body": "[Koch Snowflake Fractal Generator](https://github.com/bdm22/Koch-fractal-generator/blob/master/Fractal.ipynb)\r\nA weekend project that implements the Koch fractal algorithm to a chosen depth.\r\nInteractive version available here (add mybinder link).",
+  "body": "[Koch Snowflake Fractal Generator](https://github.com/bdm22/Koch-fractal-generator/blob/master/Fractal.ipynb)\r\nA weekend project that implements the Koch fractal algorithm to a chosen depth. Interactive link: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/bdm22/koch-fractal-generator)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
