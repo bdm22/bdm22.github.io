@@ -4,7 +4,7 @@
 
 ## Overview
 
-![© 2024 Genetesis LLC](./images/582b843e-efa1-4036-a54b-faad8015c676:67c827fdb41b5a54c129dc77_11_2_22_Genetesis_128_1.webp)
+![© 2024 Genetesis LLC](./images/67c8149f17479bf596a223b4_11_2_22_Genetesis_061%20(2)%201.webp)
 
 © 2024 Genetesis LLC
 
@@ -26,7 +26,7 @@ I worked primarily on the product, workflow, and system design layer of the plat
 
 ## System Design
 
-![© 2024 Genetesis LLC](./images/904b9f69-7ef4-479f-bb73-fcd5cac0d01e:67c8149f17479bf596a223b4_11_2_22_Genetesis_061_(2)_1.webp)
+![© 2024 Genetesis LLC](./images/67c827fdb41b5a54c129dc77_11_2_22_Genetesis_128%201.webp)
 
 © 2024 Genetesis LLC
 
@@ -55,7 +55,7 @@ The system standardized scan interpretation workflows across multiple clinical s
 
 ## Overview
 
-![© 2026 BioInVision Inc.](./images/65eb0807-7e37-46c1-8e5f-767a311c3a45:image.png)
+![© 2026 BioInVision Inc.](./images/image.png)
 
 © 2026 BioInVision Inc.
 
@@ -77,7 +77,7 @@ I worked on the imaging and analysis pipeline that transformed raw sectioned dat
 
 ## System Design
 
-![© 2026 BioInVision Inc.](./images/310d4c61-fdbb-445f-8dcd-c9141eb958b4:image.png)
+![© 2026 BioInVision Inc.](./images/image2.png)
 
 © 2026 BioInVision Inc.
 
@@ -107,7 +107,7 @@ The system replaced fragmented scalpel-based sampling with automated 3D reconstr
 
 ## Overview
 
-![© 2025 Minn Koko](./images/96718cc2-980c-43dc-8984-3992e54d2704:minn-koko-qnZz23CNNU4-unsplash.jpg)
+![© 2025 Minn Koko](./images/minn-koko-qnZz23CNNU4-unsplash.jpg)
 
 © 2025 Minn Koko
 
@@ -129,7 +129,7 @@ I contributed to the end-to-end system design and decision framework for the con
 
 ## System Design
 
-![Quick Bytes system.png](./images/bb18f19a-1687-43d6-b03c-7ffd2b8a67bf:Quick_Bytes_system.png)
+![Quick Bytes system.png](./images/Quick%20Bytes%20system.png)
 
 The system takes structured inputs such as budget, dietary preferences, and location, and applies constraint-based filtering to identify viable food options. These options are then ranked and surfaced as recommendations rather than raw data, emphasizing decision guidance over information exposure.
 
