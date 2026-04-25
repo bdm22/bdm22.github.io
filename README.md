@@ -1,6 +1,4 @@
-# Ben D. Moore
-
-**Technical Product & Software Engineering Manager**
+### Technical Product & Software Engineering Manager
 
 ## Overview
 
