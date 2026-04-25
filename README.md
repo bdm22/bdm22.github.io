@@ -1,4 +1,10 @@
-# Ben D. Moore - Technical Product & Software Engineering Manager
+# Ben D. Moore
+
+**Technical Product & Software Engineering Manager**
+
+## Overview
+
+Product and engineering leader with 8+ years of experience designing AI platforms and distributed software systems. Focused on system architecture, cross-team technical influence, and strategic platform design
 
 ## CryoViz - Whole-Mouse 3D Disease & Toxicology Imaging Platform
 
@@ -6,7 +12,7 @@
 
 ![© 2026 BioInVision Inc.](./images/image.png)
 
-<sub>© 2026 BioInVision Inc.</sub>
+© 2026 BioInVision Inc.
 
 During my undergraduate research at Case Western Reserve University, I worked on BioInVision’s CryoViz imaging system, a 3D microscopy platform that reconstructs an entire mouse from sequential tissue sections. The system enables multi-scale analysis from organ-level structure down to labeled cells, supporting studies in drug toxicity and biological signal distribution across whole organisms.
 
