@@ -5,7 +5,8 @@
 ### Overview
 
 ![© 2026 BioInVision Inc.](./images/image.png)
-© 2026 BioInVision Inc.
+
+<sub>© 2026 BioInVision Inc.</sub>
 
 During my undergraduate research at Case Western Reserve University, I worked on BioInVision’s CryoViz imaging system, a 3D microscopy platform that reconstructs an entire mouse from sequential tissue sections. The system enables multi-scale analysis from organ-level structure down to labeled cells, supporting studies in drug toxicity and biological signal distribution across whole organisms.
 
