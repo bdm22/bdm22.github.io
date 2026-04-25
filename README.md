@@ -86,9 +86,7 @@ The system standardized scan interpretation workflows across multiple clinical s
 
 ### Overview
 
-![© 2025 Minn Koko](./images/minn-koko-qnZz23CNNU4-unsplash.jpg)
-
-© 2025 Minn Koko
+![Quick Bytes system.png](./images/Quick%20Bytes%20system.png)
 
 Quick Bytes was a concept design project completed as part of my Master’s coursework in Computer Science at Georgia Tech. The project explored how to design a decision support system for SNAP users making real-time food and budgeting decisions under tight constraints.
 
@@ -101,8 +99,6 @@ SNAP users operate under strict budget and dietary constraints, requiring contin
 I contributed to the end-to-end system design and decision framework for the concept. This included defining how user constraints were represented, how feasible options were generated, and how recommendations were structured in the interface. The focus was on translating constraint-heavy inputs into actionable, low-friction decisions.
 
 ### System Design
-
-![Quick Bytes system.png](./images/Quick%20Bytes%20system.png)
 
 The system takes structured inputs such as budget, dietary preferences, and location, and applies constraint-based filtering to identify viable food options. These options are then ranked and surfaced as recommendations rather than raw data, emphasizing decision guidance over information exposure.
 
